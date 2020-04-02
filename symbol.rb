@@ -1,0 +1,9 @@
+
+
+
+
+
+simbolo = :teste
+
+puts simbolo
+
